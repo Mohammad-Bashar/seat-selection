@@ -1,4 +1,4 @@
-🎬 Movie Seat Booking System
+<h2>🎬 Movie Seat Booking System</h2>
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e07cc0c1-89ee-43bb-aef0-a8a29498a523" />
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/562bda6e-e8c1-4965-8723-37b5e76c534d" />
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/7d4203b7-2fca-48b9-ad14-ae1e4560f920" />
