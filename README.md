@@ -7,7 +7,7 @@
 A simple and interactive Movie Seat Booking Web App built using HTML, CSS, and JavaScript.
 This project allows users to select a movie, choose seats, and instantly calculate the total price based on the movie ticket cost and the number of seats selected.
 
-🚀 Features
+<h3>🚀 Features</h3>
 
 🎥 Movie Selection – Choose from different movies with different ticket prices.
 
@@ -19,14 +19,9 @@ This project allows users to select a movie, choose seats, and instantly calcula
 
 💾 Local Storage – (optional) Save seat selections and chosen movie for persistence.
 
-📸 Screenshots
-Select a Movie & Seats
 
-Movie Selection Dropdown
 
-Seats Selected with Price Calculation
-
-🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
 HTML5 – Structure of the app
 
